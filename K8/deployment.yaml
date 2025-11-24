@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hospital-note
+  labels:
+    app: hospital-note
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: hospital-note
+  template:
+    metadata:
+      labels:
+        app: hospital-note
+    spec:
+      containers:
+        - name: hospital-clinical-note
+          image: 9880135088/clinical:latest
+          ports:
+            - containerPort: 8051

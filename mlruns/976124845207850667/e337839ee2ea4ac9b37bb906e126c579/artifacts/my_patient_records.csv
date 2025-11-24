@@ -1,0 +1,47 @@
+patient_id,age,gender,symptoms,clinical_note,discharge_summary,medications,timestamp
+PATIENT_001,65,M,chest pain and shortness of breath,"
+    SUBJECTIVE:
+    65 year old M presents with chest pain, shortness of breath.
+    Past medical history: Hypertension, Diabetes.
+    Current medications: Insulin, 0.9% Sodium Chloride.
+    Allergies: None documented.
+    
+    OBJECTIVE:
+    Vital Signs: BP 150/90, HR 88, 
+    Temp 98.6°F, RR 18, 
+    SpO2 98%.
+    Physical Exam: Appropriate for chief complaint.
+    
+    ASSESSMENT:
+    Based on symptoms: chest pain, shortness of breath
+    
+    PLAN:
+        1. Further evaluation for chest pain, shortness of breath
+        2. Review current medications: Insulin, 0.9% Sodium Chloride
+        3. Follow up as needed
+        
+                                                                                                                                                                                                                                                               ","
+Generate a discharge summary for a patient with the following details:
+Age: 65
+Gender: M
+Past Medical History: Hypertension, Diabetes
+Current Medications: Insulin, 0.9% Sodium Chloride
+Allergies: None documented
+Symptoms: chest pain, shortness of breath
+Discharge Summary:
+In an emergency, the patient is asked to leave the room and then wait for an immediate post-hospital evaluation. The patient is then asked to continue to follow the patient's instructions while awaiting a post-hospital assessment.
+Symptoms:
+The patient is in an intensive care unit (ICU) and has a high risk of complications, including cardiac arrhythmia, heart attack, stroke, or an underlying heart condition.
+The patient is considered to be an ""unsuccessful"" patient.
+The patient has an established history of hypertension, diabetes, or other cardiovascular disorders.
+The patient has a history of drug abuse, history of drug abuse or dependence, or history of medication or alcohol abuse.
+The patient has a history of drug abuse or dependence.
+The patient has high levels of blood sugar.
+The patient has a history of alcohol or drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient is in","Insulin, 0.9% Sodium Chloride",2025-11-18 17:33:39

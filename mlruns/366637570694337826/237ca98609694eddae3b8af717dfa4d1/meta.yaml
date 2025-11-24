@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Deepawali/Hospital/GenAI_Clinical_Note_Generation/mlruns/366637570694337826/237ca98609694eddae3b8af717dfa4d1/artifacts
+end_time: 1763188426869
+entry_point_name: ''
+experiment_id: '366637570694337826'
+lifecycle_stage: active
+run_id: 237ca98609694eddae3b8af717dfa4d1
+run_name: Note_Generation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763188426825
+status: 3
+tags: []
+user_id: user

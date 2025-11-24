@@ -1,0 +1,79 @@
+patient_id,age,gender,symptoms,clinical_note,discharge_summary,medications,timestamp
+PATIENT_001,65,M,chest pain and shortness of breath,"
+    SUBJECTIVE:
+    65 year old M presents with chest pain, shortness of breath.
+    Past medical history: Hypertension, Diabetes.
+    Current medications: Insulin, 0.9% Sodium Chloride.
+    Allergies: None documented.
+    
+    OBJECTIVE:
+    Vital Signs: BP 150/90, HR 88, 
+    Temp 98.6°F, RR 18, 
+    SpO2 98%.
+    Physical Exam: Appropriate for chief complaint.
+    
+    ASSESSMENT:
+    Based on symptoms: chest pain, shortness of breath
+    
+    PLAN:
+        1. Further evaluation for chest pain, shortness of breath
+        2. Review current medications: Insulin, 0.9% Sodium Chloride
+        3. Follow up as needed
+         4. Recommend urgent medical care: Chest pain, shortness of breath
+         5. Recommend urgent medical care: chest pain, shortness of breath
+         6. Recommend urgent medical care: chest pain, shortness of breath
+          7. Recommend urgent medical care: chest pain, shortness of breath
+         8. Recommend urgent medical care: chest pain, shortness of breath
+          9. Recommend urgent medical care: heart rate, heart rate
+         10. Recommend urgent medical care: chest pain, shortness of breath
+                                   
+
+(A) Chest pain, shortness of breath. The patient is in a supine position, and is unable to perform any vital function.
+
+(B) Chest pain, shortness of breath. The patient is in a supine position, and is unable to perform any vital function.
+
+(C) Heart","
+Generate a discharge summary for a patient with the following details:
+Age: 65
+Gender: M
+Past Medical History: Hypertension, Diabetes
+Current Medications: Insulin, 0.9% Sodium Chloride
+Allergies: None documented
+Symptoms: chest pain, shortness of breath
+
+Discharge Summary:
+
+We are treating an emergency cardiologist who lives in a hospital with multiple patient discharge reports of chest pain and/or heart failure. Although some patients have been discharged for other reasons, all have been treated for chest pain. The most common complaints we see are chest pain, and we do not know if there has been any type of discharge.
+
+
+The discharge report should be a description of the patient's medical history, such as if the patient is diabetic, hypertension, or any other health condition. We also want to know whether there is any history of recent stroke.
+
+A discharge summary can be sent to the cardiologist's office to see if the patient is currently receiving medications or whether an appointment or a patient-centered approach is possible.
+
+We recommend following these steps:
+
+Provide the patient with an accurate discharge report.
+
+Check for any other health conditions, such as:
+
+Cancer
+
+Chronic obstructive pulmonary disease
+
+Fever
+
+Intestinal bleeding or bleeding during surgery
+
+Fibromyalgia
+
+Gastrointestinal bleeding or swelling
+
+Oral ulcers
+
+Sneezing
+
+Trap bleeding
+
+Sudden or unexplained vomiting
+
+What to do if you have a","Insulin, 0.9% Sodium Chloride",2025-11-18 16:17:14

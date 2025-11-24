@@ -1,0 +1,22 @@
+patient_id,age,gender,symptoms,clinical_note,medications,timestamp
+PATIENT_001,65,M,"chest pain, shortness of breath","
+        SUBJECTIVE:
+        65 year old M presents with chest pain,shortness of breath.
+        Past medical history: Hypertension, Diabetes.
+        Current medications: Insulin, 0.9% Sodium Chloride.
+        Allergies: None documented.
+    
+        OBJECTIVE:
+        Vital Signs: BP 150/90, HR 88, 
+        Temp 98.6°F, RR 18, 
+        SpO2 98%.
+        Physical Exam: Appropriate for chief complaint.
+    
+        ASSESSMENT:
+        Based on symptoms: chest pain,shortness of breath
+    
+        PLAN:
+        1. Further evaluation for chest pain,shortness of breath
+        2. Review current medications: Insulin, 0.9% Sodium Chloride
+        3. Follow up as needed
+        ","Insulin, 0.9% Sodium Chloride",2025-11-15 12:03:46

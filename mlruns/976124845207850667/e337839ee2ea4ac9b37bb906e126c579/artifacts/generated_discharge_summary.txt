@@ -1,0 +1,25 @@
+
+Generate a discharge summary for a patient with the following details:
+Age: 65
+Gender: M
+Past Medical History: Hypertension, Diabetes
+Current Medications: Insulin, 0.9% Sodium Chloride
+Allergies: None documented
+Symptoms: chest pain, shortness of breath
+Discharge Summary:
+In an emergency, the patient is asked to leave the room and then wait for an immediate post-hospital evaluation. The patient is then asked to continue to follow the patient's instructions while awaiting a post-hospital assessment.
+Symptoms:
+The patient is in an intensive care unit (ICU) and has a high risk of complications, including cardiac arrhythmia, heart attack, stroke, or an underlying heart condition.
+The patient is considered to be an "unsuccessful" patient.
+The patient has an established history of hypertension, diabetes, or other cardiovascular disorders.
+The patient has a history of drug abuse, history of drug abuse or dependence, or history of medication or alcohol abuse.
+The patient has a history of drug abuse or dependence.
+The patient has high levels of blood sugar.
+The patient has a history of alcohol or drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient has a history of drug abuse or dependence.
+The patient is in
