@@ -56,8 +56,13 @@ The solution integrates multiple AI modules to process patient data:
 
 🖥️ How to Run Locally
 1.	Clone the repository:
+<<<<<<< HEAD
     git clone <your-repo-url>
-    cd <project-folder>
+    cd GenAI_Clinical_Note_Generation
+=======
+    git clone https://github.com/Prashanth-practise-account/Medical-Report-Generation
+    cd GenAI_Clinical_Note_Generation
+>>>>>>> 21c095b (Update README with project overview and structure)
 2. Install dependencies:
     pip install -r requirements.txt
 3. Run the Streamlit app:
